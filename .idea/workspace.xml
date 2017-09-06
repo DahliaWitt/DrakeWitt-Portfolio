@@ -2,30 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53320ecc-c1e3-4a8d-9248-ed7868cae9ad" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/19862687.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/awesomevote.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/drakewitt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/eclipse.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ejh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/hqdefault.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/lexington.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/office.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/steamgold.PNG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/woc.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/portfolio/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/portfolio/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/portfolio/blog.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/portfolio/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/portfolio/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/portfolio/portfolio-example01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/portfolio/styles.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/road.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/19862687.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/CLASP123.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/avatar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/awesomevote.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/badkitty.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bg2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/co1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/co2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/coffee.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/drakewitt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/eclipse.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ejh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gse.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/hqdefault.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/js.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/lexington.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/me.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/office.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/phonesdown.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/road_big.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/shopping.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/station.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/steamgold.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/woc.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles.css" afterPath="$PROJECT_DIR$/styles.css" />
     </list>
     <ignored path="DrakeWitt.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,8 +53,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="242" column="28" lean-forward="false" selection-start-line="242" selection-start-column="28" selection-end-line="242" selection-end-column="28" />
+            <state relative-caret-position="-51">
+              <caret line="244" column="62" lean-forward="false" selection-start-line="244" selection-start-column="62" selection-end-line="244" selection-end-column="62" />
               <folding />
             </state>
           </provider>
@@ -78,7 +84,7 @@
         <entry file="file://$PROJECT_DIR$/styles.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="481">
-              <caret line="425" column="29" lean-forward="true" selection-start-line="425" selection-start-column="29" selection-end-line="425" selection-end-column="29" />
+              <caret line="425" column="29" lean-forward="false" selection-start-line="425" selection-start-column="29" selection-end-line="425" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -285,12 +291,12 @@
       <workItem from="1503949862852" duration="3672000" />
       <workItem from="1504544578210" duration="5575000" />
       <workItem from="1504620819735" duration="2838000" />
-      <workItem from="1504706597810" duration="2367000" />
+      <workItem from="1504706597810" duration="2638000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14463000" />
+    <option name="totallyTimeSpent" value="14734000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -302,7 +308,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3204952" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3204952" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28435266" sideWeight="0.5048143" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -584,7 +590,7 @@
     <entry file="file://$PROJECT_DIR$/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="481">
-          <caret line="425" column="29" lean-forward="true" selection-start-line="425" selection-start-column="29" selection-end-line="425" selection-end-column="29" />
+          <caret line="425" column="29" lean-forward="false" selection-start-line="425" selection-start-column="29" selection-end-line="425" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -607,8 +613,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="242" column="28" lean-forward="false" selection-start-line="242" selection-start-column="28" selection-end-line="242" selection-end-column="28" />
+        <state relative-caret-position="-51">
+          <caret line="244" column="62" lean-forward="false" selection-start-line="244" selection-start-column="62" selection-end-line="244" selection-end-column="62" />
           <folding />
         </state>
       </provider>
